@@ -34,10 +34,11 @@ or
 
 see ./run_FairGE.sh
 
+### cite
 ```
-@INPROCEEDINGS{fairgp2025luo,
+@INPROCEEDINGS{fairge2026luo,
   author={Renqiang Luo, Huafei Huang, Tao Tang, Jing Ren, Ziqi Xu, Mingliang Hou, Enyan Dai and Feng Xia},
-  booktitle={Proceedings of the ACM Web Conference (WWW)}, 
+  booktitle={Proceedings of the ACM Web Conference, (WWW)}, 
   title={FairGE: Fairness-Aware Graph Encoding in Incomplete Social Networks}, 
   year={2026},
 }
