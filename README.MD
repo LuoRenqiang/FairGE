@@ -33,3 +33,12 @@ python train_FairGE.py --dataset poekc_z  --sens_attr 'region' --drop_feat_rate 
 or
 
 see ./run_FairGE.sh
+
+```
+@INPROCEEDINGS{fairgp2025luo,
+  author={Renqiang Luo, Huafei Huang, Tao Tang, Jing Ren, Ziqi Xu, Mingliang Hou, Enyan Dai and Feng Xia},
+  booktitle={Proceedings of the ACM Web Conference (WWW)}, 
+  title={FairGE: Fairness-Aware Graph Encoding in Incomplete Social Networks}, 
+  year={2026},
+}
+```
